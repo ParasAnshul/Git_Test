@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This the first file
 Adding the second line here.
 Congratulation another line
+=======
+This the first file.
+>>>>>>> parent of d9d43a2 (Second Commit)
